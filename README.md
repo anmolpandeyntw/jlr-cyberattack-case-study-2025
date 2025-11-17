@@ -108,10 +108,3 @@ Subject: **Security Intelligence**
 This project is for educational & academic use.
 
 
-
-
----
-
-## 📝 License  
-This project is for educational & academic use.
-
