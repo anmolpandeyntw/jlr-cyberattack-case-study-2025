@@ -1,3 +1,15 @@
+# Jaguar Land Rover (JLR) Cyberattack – 2025  
+### Complete Case Study Report (DOCX Included)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Case_Study-Cybersecurity-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/File-DOCX-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Author-Anmol_Pandey-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Guide-Prof._Santanu_Samsal-blue?style=for-the-badge"/>
+</p>
+
+---
 
 ## 📄 About This Repository  
 This repository contains a **single Word document (DOCX)** with a complete academic case study on the **2025 Jaguar Land Rover (JLR) cyberattack**.
@@ -89,6 +101,14 @@ Subject: **Security Intelligence**
 - Reuters – UK Economic Impact  
 - The Guardian – Financial Loss  
 - AP News – Shutdown Details  
+
+---
+
+## 📝 License  
+This project is for educational & academic use.
+
+
+
 
 ---
 
